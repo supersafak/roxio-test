@@ -1,10 +1,10 @@
 {
     "plugins": [{
-            "id": "filmmodu",
-            "name": "FilmModu",
-            "url": "https://raw.githubusercontent.com/supersafak/roxio-test/refs/heads/main/Filmmodu.krd",
-            "image": "https://pbs.twimg.com/profile_images/1040952643890409473/7nS-GGBb_400x400.jpg",
-            "version": "3.2",
+            "id": "filmmakinesi",
+            "name": "filmmakinesi",
+            "url": "https://raw.githubusercontent.com/supersafak/roxio-test/refs/heads/main/filmmakinesi.krd",
+            "image": "https://filmmakinesi.tv/uploads/logo/4655823-logo.png",
+            "version": "3.3",
             "active": true
         }
     ]
