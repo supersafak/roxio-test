@@ -1,7 +1,7 @@
 {
     "plugins": [{
-            "id": "filmmakinesi",
-            "name": "filmmakinesi",
+            "id": "Filmmakinesi",
+            "name": "Filmmakinesi",
             "url": "https://raw.githubusercontent.com/supersafak/roxio-test/refs/heads/main/Filmmakinesi.krd",
             "image": "https://filmmakinesi.tv/uploads/logo/4655823-logo.png",
             "version": "3.3",
