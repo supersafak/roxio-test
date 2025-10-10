@@ -2,7 +2,7 @@
     "plugins": [{
             "id": "filmmakinesi",
             "name": "filmmakinesi",
-            "url": "https://raw.githubusercontent.com/supersafak/roxio-test/refs/heads/main/filmmakinesi.krd",
+            "url": "https://raw.githubusercontent.com/supersafak/roxio-test/refs/heads/main/Filmmakinesi.krd",
             "image": "https://filmmakinesi.tv/uploads/logo/4655823-logo.png",
             "version": "3.3",
             "active": true
